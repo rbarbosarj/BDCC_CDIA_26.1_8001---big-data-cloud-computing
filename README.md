@@ -1,13 +1,18 @@
-# Big Data and Cloud Computing BDCC_CDIA_26.1_8001
-**Aluno:** Renan  
-**Curso:** Engenharia de Computação  
-**Disciplina:** Big Data and Cloud Computing  
-**Código da disciplina:** BDCC_CDIA_26.1_8001  
-**Ano:** 2026
+# BDCC – Big Data & Cloud Computing
 
-Este repositório reúne as entregas avaliativas da disciplina organizadas por tipo e por número.  
-A estrutura facilita a navegação do avaliador e o versionamento das atividades.
+## Curso
 
-## Estrutura do repositório
-- **ACs/** — Atividades de Curso (AC1, AC2, AC3, ...)  
-- **APs/** — Avaliações Parciais (AP1, AP2, ...)  
+Engenharia de Computação
+
+## Período
+
+2026.1
+
+## Descrição
+
+Repositório contendo as Atividades Curriculares da disciplina de Big Data & Cloud Computing.
+
+## Estrutura
+
+* ACs/AC1 – Computação em Nuvem
+* ACs/AC2 – Em desenvolvimento
