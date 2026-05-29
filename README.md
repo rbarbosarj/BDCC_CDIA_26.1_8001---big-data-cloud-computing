@@ -14,11 +14,12 @@ Repositório contendo as Atividades Curriculares da disciplina de Big Data & Clo
 
 ---
 
-## Estrutura
+# Estrutura
 
-* ACs/AC1 – Computação em Nuvem
-* ACs/AC2 – Computação em Nuvem
-
+- AC01 – Computação em Nuvem
+- AC02 – Modelos de Serviço em Nuvem
+- AC03 – Modelos de Banco de Dados e Arquiteturas de Dados
+  
 ---
 
 ## Organização
